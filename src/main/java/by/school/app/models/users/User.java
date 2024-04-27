@@ -24,7 +24,7 @@ import java.util.Objects;
 /**
  * UserModel.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @Entity
 @Table(name = "users")

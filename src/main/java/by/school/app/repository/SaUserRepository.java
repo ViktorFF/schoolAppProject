@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 /**
  * UserRepository.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @Repository
 public interface SaUserRepository extends JpaRepository<User, Long> {

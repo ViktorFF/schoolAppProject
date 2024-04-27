@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 /**
  * SaParentRepository.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @Repository
 public interface SaParentRepository extends JpaRepository<Parent, Long> {

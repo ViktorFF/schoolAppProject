@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 /**
  * SaUserServiceImpl.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @Service
 public class SaUserServiceImpl implements SaUserService {

@@ -14,7 +14,7 @@ import java.util.Set;
 /**
  * Student.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @Entity
 @NoArgsConstructor

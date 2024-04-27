@@ -3,9 +3,9 @@ package by.school.app.services;
 import by.school.app.models.users.User;
 
 /**
+ * SaUserService.
  *
- *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 public interface SaUserService {
     User getUserById(final long id);
