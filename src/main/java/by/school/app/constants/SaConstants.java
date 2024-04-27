@@ -3,7 +3,7 @@ package by.school.app.constants;
 /**
  * SaConstants.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 public class SaConstants {
 

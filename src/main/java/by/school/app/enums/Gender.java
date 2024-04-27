@@ -3,7 +3,7 @@ package by.school.app.enums;
 /**
  * Gender.
  *
- * @author Victor Bakhanovich <v.bakhanovich@sam-solutions.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 public enum Gender {
     MALE,

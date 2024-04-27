@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * SchoolAppProjectApplication.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @SpringBootApplication
 public class SchoolAppProjectApplication {

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * SaUserController.
  *
- * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
+ * @author Victor Bakhanovich &lt;victor.bahanovich@gmail.com&gt;
  */
 @RestController
 @RequestMapping("/users")
