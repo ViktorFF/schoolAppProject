@@ -1,8 +1,8 @@
-package by.school.app.service.impl;
+package by.school.app.services.impl;
 
-import by.school.app.model.User;
+import by.school.app.models.users.User;
 import by.school.app.repository.SaUserRepository;
-import by.school.app.service.SaUserService;
+import by.school.app.services.SaUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

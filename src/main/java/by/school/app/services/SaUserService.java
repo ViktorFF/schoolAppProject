@@ -1,6 +1,6 @@
-package by.school.app.service;
+package by.school.app.services;
 
-import by.school.app.model.User;
+import by.school.app.models.users.User;
 
 /**
  *

@@ -1,15 +1,15 @@
 package by.school.app.repository;
 
-import by.school.app.models.users.User;
+import by.school.app.models.users.SchoolStaff;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * UserRepository.
+ * SaSchoolStaffRepository.
  *
  * @author Victor Bakhanovich <victor.bahanovich@gmail.com>
  */
 @Repository
-public interface SaUserRepository extends JpaRepository<User, Long> {
-    User findById(final long id);
+public interface SaSchoolStaffRepository extends JpaRepository<SchoolStaff, Long> {
+    SchoolStaff findById(final long id);
 }

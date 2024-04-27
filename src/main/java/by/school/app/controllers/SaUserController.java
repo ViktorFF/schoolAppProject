@@ -1,7 +1,7 @@
-package by.school.app.controller;
+package by.school.app.controllers;
 
-import by.school.app.model.User;
-import by.school.app.service.SaUserService;
+import by.school.app.models.users.User;
+import by.school.app.services.SaUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
